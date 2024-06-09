@@ -1,4 +1,4 @@
-Hi heres are some of my best work so far:
+Hi im a 16 years old guy who loves to script, i live in italy (Time zone GMT +2) and heres are some of my best work so far:
 
 I made this procedural animation system for walk and run:
 https://github.com/Pzark/Portfolio/assets/146674398/049d2eb5-2cc8-4166-9636-3a57bee31422
