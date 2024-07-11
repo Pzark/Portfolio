@@ -4,7 +4,7 @@ I made this procedural animation system for walk and run:
 https://github.com/Pzark/Portfolio/assets/146674398/049d2eb5-2cc8-4166-9636-3a57bee31422
 
 
-I made this "Pet Simulator" copy with procedural pet animations and easy features implementation:
+I made this "Pet Simulator" copy with procedural pet animations, easy features implementation and a great datastore security and reliability:
 https://github.com/Pzark/Portfolio/assets/146674398/bee8e64a-1051-48f5-8fa3-8e10fc9b5afd
 
 
