@@ -12,6 +12,10 @@ I made this kind of Gerstner Waves Function Waves but it didnt work as planned:
 https://github.com/Pzark/Portfolio/assets/146674398/69d6f471-55f1-445c-a9fd-3447970f6207
 
 
+I made this gun system with some procedural animation:
+https://github.com/user-attachments/assets/304109b3-ba62-471c-bddb-03ca611b6a61
+
+
 I made this simple but efficence grid placement system, because i was bored:
 https://github.com/Pzark/Portfolio/assets/146674398/1eeb65ca-57ea-4e46-9704-ecb9f3324882
 
